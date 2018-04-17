@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Inventory>
+    <CarID>1</CarID>
+    <Make>Green</Make>
+    <Color>BMW</Color>
+    <PetName>Stan</PetName>
+  </Inventory>
+  <Inventory>
+    <CarID>2</CarID>
+    <Make>Pink</Make>
+    <Color>MRC</Color>
+    <PetName>Melvin</PetName>
+  </Inventory>
+  <Inventory>
+    <CarID>38037</CarID>
+    <Make>Black</Make>
+    <Color>BMW</Color>
+    <PetName>ALex</PetName>
+  </Inventory>
+  <Inventory>
+    <CarID>4</CarID>
+    <Make>Yellow</Make>
+    <Color>Volks</Color>
+    <PetName>Tomas</PetName>
+  </Inventory>
+</NewDataSet>
