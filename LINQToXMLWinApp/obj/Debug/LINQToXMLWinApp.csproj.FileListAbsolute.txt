@@ -4,8 +4,6 @@ c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\bin\Debug\LINQToXMLW
 c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\obj\Debug\LINQToXMLWinApp.MainForm.resources
 c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\obj\Debug\LINQToXMLWinApp.Properties.Resources.resources
 c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\obj\Debug\LINQToXMLWinApp.csproj.GenerateResource.Cache
-c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\obj\Debug\LINQToXMLWinApp.csproj.CoreCompileInputs.cache
 c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\obj\Debug\LINQToXMLWinApp.exe
 c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\obj\Debug\LINQToXMLWinApp.pdb
 c:\users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\bin\Debug\SimpleInventory.xml
-C:\Users\snilk\source\repos\LINQToXMLWinApp\LINQToXMLWinApp\obj\Debug\LINQToXMLWinApp.csprojResolveAssemblyReference.cache

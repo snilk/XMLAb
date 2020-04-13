@@ -189,7 +189,7 @@ namespace LINQToXMLWinApp
                     }
                 }
             }
-            catch (Exception ex)
+            catch
             {
                 
             }
@@ -211,7 +211,7 @@ namespace LINQToXMLWinApp
                     //}
                 }
             }
-            catch (Exception ex)
+            catch
             {
 
             }
